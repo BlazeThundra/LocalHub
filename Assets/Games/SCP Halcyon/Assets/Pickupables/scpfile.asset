@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cd838b4061fba04f9e90722f5f33bd1, type: 3}
+  m_Name: scpfile
+  m_EditorClassIdentifier: 
+  pickupName: SCP-9960 File
+  description: File with information on SCP-9960.
+  weight: 0.01
+  worldObject: {fileID: 325231498653487940, guid: 4d0fed21de6f24a42bb8b36099e7fbe5, type: 3}
+  inspectionImage: {fileID: 21300000, guid: 9f1de19793646eb45b96d9af818d74a8, type: 3}
+  inventoryIcon: {fileID: 21300000, guid: d58548029f84ece47b09cd7e7cbf0b91, type: 3}
+  usageText: paper

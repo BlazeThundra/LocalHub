@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cd838b4061fba04f9e90722f5f33bd1, type: 3}
+  m_Name: safeNote
+  m_EditorClassIdentifier: 
+  pickupName: Scrawled Note
+  description: Note concerning the spare keycard safe.
+  weight: 0.01
+  worldObject: {fileID: 325231498653487940, guid: 4d0fed21de6f24a42bb8b36099e7fbe5, type: 3}
+  inspectionImage: {fileID: 21300000, guid: f126a03ac36a9d14189c0a07e4344b51, type: 3}
+  inventoryIcon: {fileID: 21300000, guid: ea3c2615ec473ea429f2c43116b1e0e9, type: 3}
+  usageText: paper
+  usageLevel: 0

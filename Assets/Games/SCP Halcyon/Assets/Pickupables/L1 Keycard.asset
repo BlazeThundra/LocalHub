@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cd838b4061fba04f9e90722f5f33bd1, type: 3}
+  m_Name: L1 Keycard
+  m_EditorClassIdentifier: 
+  pickupName: L1 Keycard
+  description: Keycard labeled with Data Manager Chauvin's name.
+  weight: 0.05
+  worldObject: {fileID: 3343308936501043002, guid: 22bea4013235fec45918082e79ab8bfd, type: 3}
+  inspectionImage: {fileID: 21300000, guid: a1a72f09c2bb0844c95baf916fdd950f, type: 3}
+  inventoryIcon: {fileID: 21300000, guid: ddef207c6dd0d6d4bb0eeb3997332099, type: 3}
+  usageText: card
+  usageLevel: 1
