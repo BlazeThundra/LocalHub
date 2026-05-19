@@ -121,8 +121,8 @@ public class HazardLevels : MonoBehaviour
 
  public void RestartButton()
  {
-//   sbyte currentSceneIndex = (sbyte)SceneManager.GetActiveScene().buildIndex;
-//   SceneManager.LoadScene(currentSceneIndex);
+  int currentSceneIndex = (int)SceneManager.GetActiveScene().buildIndex;
+  SceneManager.LoadScene(currentSceneIndex);
  }
 }
 }
