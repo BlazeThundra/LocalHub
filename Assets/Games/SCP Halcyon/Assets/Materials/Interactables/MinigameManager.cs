@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 
+namespace SCPHalcyon
+{
 public class MinigameManager : MonoBehaviour
 {
  public string currentMinigame;
@@ -122,4 +124,5 @@ public class MinigameManager : MonoBehaviour
    keypadOnCD = false;
   }
  }
+}
 }
